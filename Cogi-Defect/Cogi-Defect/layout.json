@@ -1,0 +1,1 @@
+{"order": ["summary", "chart_ref", "chart_comp", "table"], "widths": {"summary": 12, "chart_ref": 6, "chart_comp": 6, "table": 6}, "heights": {"chart_ref": 400, "chart_comp": 400, "table": 400}, "colors": {"chart": "#5E8BFF"}}

@@ -1,0 +1,9 @@
+pandas>=2.0
+openpyxl>=3.1
+numpy>=1.25 
+streamlit>=1.35.0
+altair>=5.0 
+sqlalchemy>=2.0  # optional but recommended for SQLite interactions 
+streamlit-sortables>=0.3.1 
+plotly>=5.20
+streamlit_plotly_events>=0.0.6 
